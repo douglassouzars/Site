@@ -21,6 +21,6 @@
           <img alt="Latest Stable Version" src="https://img.shields.io/packagist/v/cakephp/cakephp.svg?style=flat-square&label=stable">
       </a>
   </p>-->
-  
-  [DR. ELETRONICO](https://www.dreletronico.com.br) é um e-commerce voltado para a venda de componentes eletronicos.
-  
+  <p align="center">
+      <a href="https://www.dreletronico.com.br">DR. ELETRONICO</a> é um e-commerce voltado para a venda de componentes eletronicos.
+   </p>
