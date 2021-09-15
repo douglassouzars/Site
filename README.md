@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.dreletronico.com/" target="_blank" >
-      <img alt="Dr.eletronico" src="https://<img src="https://cdn.awsli.com.br/400x300/1323/1323007/logo/64824ac9cc.jpeg">" width="400" />
+      <img alt="Dr.eletronico" width="400" src="https://<img src="https://cdn.awsli.com.br/400x300/1323/1323007/logo/64824ac9cc.jpeg">" 
     </a>
   </p>
   <p align="center">
