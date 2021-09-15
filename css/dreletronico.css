@@ -1,0 +1,109 @@
+@font-face {
+    font-family: 'codepro';
+    src: url("../fonts/Source_Code_Pro/SourceCodePro-Regular.ttf");
+    font-size: 1em;
+}
+
+header {                                                    /*Define o cabeçalho*/         
+    width: 100%;                                            /*Define a largura*/         
+    height: 69px;                                          /*Define a altura*/         
+    background-color: #ff0000;                               /*Define a cor do fundo*/         
+    position: relative;
+    
+}
+
+header .container{                                           /*Seletor CSS*/
+    color:#fff;
+    padding: 0px;
+}
+
+header .header-black{
+    background-color:#000;
+    color:#fff;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;    
+}
+
+header .header-black button{
+    background-color:#ff0000;
+    color:#fff;
+    height: 30px;
+    width: 70px;
+    border-radius: 5px;
+    border: 0.5px solid #fff;
+}
+
+header .header-red li{
+    background-image: url("../img/face.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin:-15px -30px 0px 25px;
+}
+header .header-red li.rede-01{
+    background-position: -1px 0px;
+}
+header .header-red li.rede-02{
+    background-position: -31px 0px;
+}
+header .header-red li.rede-03{
+    background-position: -62px 0px;
+}
+header .header-red li.link-03{
+    background-position: -102px 0px;
+    margin: 0px 10px 5px 10px;
+}
+header .header-red li.link-01{
+    background-position: -122px 0px;
+}header .header-red li.link-02{
+    background-position: -152px 0px;
+}
+header .header-red span{
+    background-position: -152px 0px;
+    margin-top: -10px;
+}
+ header .header-red li a{
+    width: 30px;
+    height: 30px;
+    display: block;
+
+ }
+/*body.logo{
+    background-color:#fff;
+    position: absolute;
+}*/
+body{
+    background-color:#000;
+}
+header .header-red2 li {
+    display: inline-block;
+    margin:-20px 20px -20px -4px;
+}
+/*header .header-red ul{
+    margin:-3px -2px 0px -4px;
+    padding: -5px;
+}*/
+#menu ul{
+    padding: -20px;
+    display: block;
+    margin: -10px 100px;
+}
+
+#menu li a{
+    color:#fff;
+    font-size: 13px;
+}
+body .logo{
+    background-color:#fff;
+    color:#000;
+    height: 120px;
+    width: 80%;
+    margin-left: 10%;
+}
+body .logo li{
+    background-color:#fff;
+    color:#000;
+    margin: -10px 30px 0px -30px;
+    padding: 10px -20px;
+    display: inline-block;
+}
